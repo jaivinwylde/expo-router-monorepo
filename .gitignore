@@ -33,7 +33,4 @@ yarn-error.log*
 # turbo
 .turbo
 
-# terraform
-.terraform
-.terraform.lock.hcl
-*terraform.tfvars
+.expo
